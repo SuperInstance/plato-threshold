@@ -4,6 +4,9 @@ version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
 description = "Adaptive threshold calculation for PLATO deadband filters"
+repository = "https://github.com/SuperInstance/plato-threshold"
+homepage = "https://github.com/SuperInstance/plato-threshold"
+documentation = "https://docs.rs/plato-threshold"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
